@@ -21,7 +21,7 @@ All set against a visually compelling background.
 
 ## 🚀 Live Demo
 
-👉 Click here to view the live site: [Live Demo](https://aishwarya152.github.io/Your-Todolist-Repo/)
+👉 Click here to view the live site: [Live Demo](https://aishwarya152.github.io/Todo-list-page/)
 
 ---
 
