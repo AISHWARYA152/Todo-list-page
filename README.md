@@ -1,6 +1,6 @@
 # 📝 Todolist
 
-🎓 This is my project, built as part of a web development learning using *HTML* and *CSS*.
+🎓 This is my project, built as part of a web development learning using **HTML** and **CSS**.
 
 A minimal and visually appealing *to-do list landing page* designed to inspire daily action and focus.
 
@@ -50,9 +50,9 @@ This project is built entirely from scratch for foundational learning.
 - 🎨 Applying modern **CSS** for layout and visual design  
 - 🖼 Using background images effectively  
 - 🧠 Creating reusable and organized code  
-- 🧩 Building interactive UI with HTML & CSS only  
+- 🧩 Building interactive UI with **HTML & CSS** only  
 
----
+---        
 
 ## 🤝 Connect with Me
 
